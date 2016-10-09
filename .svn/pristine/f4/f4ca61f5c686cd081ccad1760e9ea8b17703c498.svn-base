@@ -1,0 +1,4 @@
+<%- include header.ejs%>
+<h1><%= title %></h1>
+<p><%= title %>中间内容</p>
+<%- include footer.ejs%>
