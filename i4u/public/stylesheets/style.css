@@ -1,0 +1,9 @@
+.nav-bar {
+  background-color: transparent;
+}
+.nav-bar .nav-bar-btn {
+  list-style: none;
+}
+.nav-bar .nav-bar-btn a {
+  color: gary;
+}
